@@ -2,7 +2,7 @@
 
 Workflow for WAF Data Analysis and Response Using Amazon Bedrock and Go.
 
-![Image](https://github.com/user-attachments/assets/983ccf20-ae5e-46b0-af9d-94e9bbd8e2b5)
+![Image](https://github.com/user-attachments/assets/c9b97796-89fe-4987-a3fe-e8258f47a023)
 
 - Slack
 - Amazon API Gateway
